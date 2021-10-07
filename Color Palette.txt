@@ -1,0 +1,13 @@
+Primary: 0000
+Secondary: 
+FF8E42
+FFAB73
+
+Hero:
+157 left right
+83 Top
+Bottom 102
+Height 642
+
+Left: 57%
+right: 43%
